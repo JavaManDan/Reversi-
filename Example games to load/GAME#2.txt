@@ -1,0 +1,47 @@
+START OF FILE
+6
+START OF BOARD
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+W
+B
+e
+e
+e
+e
+B
+W
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+END OF BOARD
+B
+Player1
+Player2
+1
+2
+2
+2

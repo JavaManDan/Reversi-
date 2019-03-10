@@ -1,0 +1,47 @@
+START OF FILE
+6
+START OF BOARD
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+B
+B
+B
+e
+e
+e
+W
+W
+W
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+END OF BOARD
+B
+Calvin
+Dan
+3
+2
+3
+3
